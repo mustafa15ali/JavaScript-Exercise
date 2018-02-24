@@ -1,0 +1,19 @@
+{
+  "name": "javascript-exercise",
+  "version": "1.0.0",
+  "description": "(index.js) some dope Java Excersises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa15ali/JavaScript-Exercise-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafa15ali/JavaScript-Exercise-/issues"
+  },
+  "homepage": "https://github.com/mustafa15ali/JavaScript-Exercise-#readme"
+}
