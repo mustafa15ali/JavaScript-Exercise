@@ -1,14 +1,14 @@
 // 'use strict';'
 
 const mustafa = {
-   name: "mustafa",
-   age:27,
-   happy: true,
-   hairColor:"brown"
-} ;
+  name: 'mustafa',
+  age: 27,
+  happy: true,
+  hairColor: 'red',
+};
 
 
-const mustafa = [name, happy, age, hairColor, ['kids', 'dogs', 4]];
+const mustafaArray = [name, happy, age, hairColor, ['kids', 'dogs', 4]];
 
 for (let index = 0; index < mustafa.length; index++) {  
 console.log(mustafa[index]);
@@ -21,4 +21,6 @@ console.log(mustafa[index]);
 // happy = false;
 // console.log(typeof happy, happy);
 // console.log(typeof age, age);
+
+
 
